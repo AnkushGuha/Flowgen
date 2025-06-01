@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.logo {
+  width: 200px;    /* Adjust based on your layout */
+  height: auto;    /* Keeps aspect ratio */
+}
